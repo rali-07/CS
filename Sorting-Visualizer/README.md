@@ -32,9 +32,10 @@
 
 1. 克隆仓库到本地：
    ```bash
-   git clone https://github.com/rali-07/CS/Sorting-Visualizer.git
-   cd Sorting-Visualizer
+   git clone https://github.com/rali-07/CS.git
+   cd CS/Sorting-Visualizer
    ```
+   
 2. 运行主程序：
    ```bash
    python sort_visualizer.py
